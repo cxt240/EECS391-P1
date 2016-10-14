@@ -1,0 +1,3 @@
+randomizeState 50
+printState
+solve A-star <h2>

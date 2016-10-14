@@ -1,0 +1,21 @@
+534 187 62b
+Solving puzzle using A* heuristic h2
+left
+up
+left
+up
+right
+down
+right
+down
+left
+up
+left
+up
+right
+right
+down
+left
+up
+left
+
